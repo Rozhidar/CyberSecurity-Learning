@@ -47,6 +47,4 @@ This repo documents my 3-month journey to build strong cybersecurity skills and 
 - Python, C#
 - Git & GitHub
 
----
 
-## 📂 Repository Structure
