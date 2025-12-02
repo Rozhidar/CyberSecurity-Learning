@@ -1,5 +1,5 @@
 
-# Day 0: Lab Setup
+# 27-11-2025: Lab Setup
 
 ## ✅ Tasks Completed
 - Installed Linux Mint XFCE on VirtualBox
@@ -12,4 +12,7 @@
 A secure and organized lab is the foundation for hands-on cybersecurity practice.
 
 ## 📸 Screenshots
-!Mint Desktop
+
+![Linux-Mint](screenshots/Screenshot_2025-11-27_06-31-38.png)
+![VM](screenshots/Screenshot_2025-11-27_17-44-51.png)
+![Linux-Mint-Installed](screenshots/Screenshot_2025-11-27_17-58-22.png)

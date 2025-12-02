@@ -1,5 +1,5 @@
 
-# Day 1 - Cybersecurity Fundamentals
+# 28-11-2025 - Cybersecurity Fundamentals
 
 ## ✅ Topics Covered
 - CIA Triad (Confidentiality, Integrity, Availability)
@@ -7,11 +7,11 @@
 - Security Layers (Physical, Network, Application, Operational, End-user)
 
 ## 📚 Resources
-See resources.md for all links and references.
+[SecuringAccounts](https://video.cs50.io/fJYdAN4Vh5c?screen=McCLi_ltC2o&start=1566)
 
 ## 🖼 Screenshots
-!Mind Map
-!Notes
+CS50'sIntroductionToCybersecurity/SecuringAccounts/screenshots/Screenshot 2025-11-30 172304.png
+CS50'sIntroductionToCybersecurity/SecuringAccounts/screenshots/Screenshot 2025-11-30 172524.png
 
 ## 📝 Summary
 Today I learned the foundational principles of cybersecurity:
@@ -38,6 +38,5 @@ Today I learned the foundational principles of cybersecurity:
 ### ✅ Deliverables
 - Mind map of concepts
 - Screenshots of notes
-- Resources documented in `resources.md`
 
 ---
